@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Roboto+Mono&display=swap');
+.photo{
+    border-right: rgb(230, 220, 220) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h5{
+    font-family: 'Roboto Mono', monospace;
+}
+.cards{
+    height: auto;
+}
+.company{
+    font-size: 12px;
+    
+}
+.content{
+    border-right: rgb(230, 220, 220) solid;
+    
+}
+.intern{
+    position: absolute;
+    right :5px;
+    top: 5px;
+    font-size: 12px;
+    border: rgb(121, 121, 243) solid;
+    border-radius: 10%;
+    padding: 2px;
+}
+.views{
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+    font-size: 12px;
+}
+.hor{
+    display: none;
+}
+.apply{
+    margin-left: 30px;
+}
+
+
+@media (max-width: 740px) {
+    .photo{
+        width: 100px;
+        border: none;
+        padding-left: 20px;
+        
+    }
+    .content{
+        width: 250px;
+        border: none;
+        padding-top: 20px;
+       
+  }
+  .intern{
+      top:0;
+      right: 10px;
+  }
+  .company{
+      margin-top: 0;
+  }
+  .views{
+      right: 10px;
+  }
+  .hor{
+    display: block;
+}
+.apply{
+    position: absolute;
+    right: 30px;
+    bottom: 25px;
+}
+    
+  }
