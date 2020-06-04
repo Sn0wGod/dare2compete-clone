@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1d80a11fed2be2cd22b7bcbbc9e208e",
+    "revision": "ffc06192a4d769cf8e8fd86185bb2d59",
     "url": "/dare2compete-clone/index.html"
   },
   {
