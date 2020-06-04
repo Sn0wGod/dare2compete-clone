@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dare2compete-clone/static/css/main.038e216f.chunk.css",
-    "main.js": "/dare2compete-clone/static/js/main.ee44d1fa.chunk.js",
-    "main.js.map": "/dare2compete-clone/static/js/main.ee44d1fa.chunk.js.map",
+    "main.js": "/dare2compete-clone/static/js/main.f44690e6.chunk.js",
+    "main.js.map": "/dare2compete-clone/static/js/main.f44690e6.chunk.js.map",
     "runtime-main.js": "/dare2compete-clone/static/js/runtime-main.ca3281be.js",
     "runtime-main.js.map": "/dare2compete-clone/static/js/runtime-main.ca3281be.js.map",
     "static/js/2.88abcad0.chunk.js": "/dare2compete-clone/static/js/2.88abcad0.chunk.js",
     "static/js/2.88abcad0.chunk.js.map": "/dare2compete-clone/static/js/2.88abcad0.chunk.js.map",
     "index.html": "/dare2compete-clone/index.html",
-    "precache-manifest.d299656b583dd538a73fb2f0fa0a2766.js": "/dare2compete-clone/precache-manifest.d299656b583dd538a73fb2f0fa0a2766.js",
+    "precache-manifest.0ff925c949389b52adeebd456a11357b.js": "/dare2compete-clone/precache-manifest.0ff925c949389b52adeebd456a11357b.js",
     "service-worker.js": "/dare2compete-clone/service-worker.js",
     "static/css/main.038e216f.chunk.css.map": "/dare2compete-clone/static/css/main.038e216f.chunk.css.map",
     "static/js/2.88abcad0.chunk.js.LICENSE.txt": "/dare2compete-clone/static/js/2.88abcad0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca3281be.js",
     "static/js/2.88abcad0.chunk.js",
     "static/css/main.038e216f.chunk.css",
-    "static/js/main.ee44d1fa.chunk.js"
+    "static/js/main.f44690e6.chunk.js"
   ]
 }

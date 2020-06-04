@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dare2compete-clone/precache-manifest.d299656b583dd538a73fb2f0fa0a2766.js"
+  "/dare2compete-clone/precache-manifest.0ff925c949389b52adeebd456a11357b.js"
 );
 
 self.addEventListener('message', (event) => {

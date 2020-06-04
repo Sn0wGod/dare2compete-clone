@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffc06192a4d769cf8e8fd86185bb2d59",
+    "revision": "564812a0a7ca224652ab6ecc76bb48bd",
     "url": "/dare2compete-clone/index.html"
   },
   {
-    "revision": "838b53cd29ac3927d740",
+    "revision": "5833ed526e7383162c9d",
     "url": "/dare2compete-clone/static/css/main.038e216f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dare2compete-clone/static/js/2.88abcad0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "838b53cd29ac3927d740",
-    "url": "/dare2compete-clone/static/js/main.ee44d1fa.chunk.js"
+    "revision": "5833ed526e7383162c9d",
+    "url": "/dare2compete-clone/static/js/main.f44690e6.chunk.js"
   },
   {
     "revision": "0f8c2299deda2e162d75",
